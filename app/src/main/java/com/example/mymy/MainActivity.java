@@ -21,13 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //set the commit comments
         //now update the code again then commit and push
         Toast.makeText(this, "new changes", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "new changesuhyggh", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "nghew changes", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "new changesuhyggh", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "nghew changes", Toast.LENGTH_SHORT).show();
-        //arin commit
-        Toast.makeText(this, "bgyhj", Toast.LENGTH_SHORT).show();
-        System.out.println("arin!");
-
+        //arin please commentt
+        Toast.makeText(this, "hello arin welcomee to git", Toast.LENGTH_SHORT).show();
     }
 }
