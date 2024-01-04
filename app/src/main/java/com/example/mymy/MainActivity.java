@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         //first do changes then
         Toast.makeText(this, "devansh manghnani commit", Toast.LENGTH_SHORT).show();
         //click on commit and push from the left side
+        //set the commit comments
     }
 }
