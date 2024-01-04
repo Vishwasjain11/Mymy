@@ -15,5 +15,9 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "hi", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "hfcgui", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "hi", Toast.LENGTH_SHORT).show();
+        //first do changes then
+        Toast.makeText(this, "devansh manghnani commit", Toast.LENGTH_SHORT).show();
+        //click on commit and push from the left side
+        //set the commit comments
     }
 }
