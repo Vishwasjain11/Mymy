@@ -25,5 +25,9 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "nghew changes", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "new changesuhyggh", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "nghew changes", Toast.LENGTH_SHORT).show();
+        //arin commit
+        Toast.makeText(this, "bgyhj", Toast.LENGTH_SHORT).show();
+        System.out.println("arin!");
+
     }
 }
